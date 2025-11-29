@@ -1,0 +1,211 @@
+Project Title: Responsive Landing Page (Next.js + Tailwind + Vercel v0)
+Objective
+
+Build a fully responsive, modern, clean landing page for a product/service/website using:
+
+Next.js (App Router)
+
+Tailwind CSS
+
+Vercel v0 (mandatory for UI generation)
+
+Deployed on Vercel
+
+🎯 Functional Requirements
+1. Sections Required
+
+The landing page must contain these components:
+
+1. Hero Section
+
+Main heading
+
+Subtext/description
+
+Primary CTA button (e.g., “Get Started”)
+
+Optional: Hero image or illustration
+
+2. Features Section (Minimum 3 features)
+
+Each feature MUST contain:
+
+Icon/image
+
+Feature title
+
+Short description
+
+3. Testimonials OR Product Highlights
+
+Choose one:
+
+Testimonials:
+
+Customer name
+
+Photo/avatar
+
+Quote
+
+Rating (optional)
+
+OR Product Highlights:
+
+Screenshots with caption
+
+Key benefits
+
+4. Pricing Section OR Contact Form
+
+Choose one:
+
+Pricing: 3 Plans (Basic, Pro, Enterprise)
+
+Contact Form:
+
+Name
+
+Email
+
+Message
+
+5. Footer
+
+Must include:
+
+Brand name
+
+Copyright
+
+Social links
+
+Useful links
+
+💻 Technical Requirements
+Tech Stack
+
+Next.js 14+ (app router)
+
+Tailwind CSS
+
+Vercel v0 for UI generation (mandatory)
+
+Deployed on Vercel
+
+Folder Structure
+/app
+  page.jsx
+  globals.css
+  /components
+    Navbar.jsx
+    Hero.jsx
+    Features.jsx
+    Testimonials.jsx OR Highlights.jsx
+    Pricing.jsx OR Contact.jsx
+    Footer.jsx
+    Card.jsx              # Reusable
+/public
+  /images
+README.md
+tailwind.config.js
+next.config.js
+package.json
+
+📐 Non-Functional Requirements
+1. Responsiveness
+
+Mobile-first
+
+Tablet layout
+
+Desktop wide layout
+
+2. UI/UX
+
+Clean, modern, minimal
+
+Professionally spaced
+
+Consistent typography
+
+Good visual hierarchy
+
+3. Performance
+
+Fast load
+
+Optimized images
+
+Minimal JS
+
+4. Accessibility
+
+Proper alt texts
+
+Keyboard focusable nav
+
+Sufficient contrast
+
+📄 Deliverables
+
+Complete Source Code (Next.js + Tailwind)
+
+Live Deployment Link (Vercel)
+
+GitHub Repository Link
+
+5–10 Line Note on Vercel v0 Usage
+
+README.md with:
+
+Description
+
+Tech stack
+
+Folder structure
+
+Setup instructions
+
+v0 usage notes
+
+Deployed link placeholders
+
+Screenshots
+
+🧪 Testing Requirements
+Must pass:
+
+Mobile view OK
+
+Tablet OK
+
+Desktop OK
+
+Lighthouse accessibility > 90
+
+Buttons clickable
+
+Links working
+
+Form submits (if contact)
+
+🚀 Deployment Requirements
+
+Deployed on Vercel
+
+Auto-deploy via GitHub push
+
+Production URL provided
+
+🟦 Vercel v0 Requirements
+
+You MUST use Vercel v0 to generate UI for at least:
+
+Hero
+
+Features
+
+Testimonials OR Pricing
+
+You must then convert the v0 output into Tailwind + JSX.
