@@ -9,23 +9,14 @@ A fully responsive, modern landing page built with Next.js 14+, Tailwind CSS, an
 ## 🔗 Important Links
 
 ### Deployed Link
-**Production URL:** `[Will be available after Vercel deployment]`
+**Production URL:** [https://modern-saas-landing.vercel.app](https://modern-saas-landing.vercel.app)
 
-To deploy:
-1. Create a GitHub repository
-2. Push code: `git remote add origin YOUR_REPO_URL && git push -u origin main`
-3. Go to [vercel.com](https://vercel.com) and import your repository
-4. Vercel will auto-deploy in 2-3 minutes
+✅ **DEPLOYED SUCCESSFULLY!**
 
 ### GitHub Repository Link
-**Repository URL:** `[Add your GitHub repo URL here]`
+**Repository URL:** [https://github.com/Sandeshinde1530/ModernSaas](https://github.com/Sandeshinde1530/ModernSaas)
 
-To create:
-```bash
-# Create repo on GitHub, then:
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
+✅ **CODE PUSHED TO GITHUB!**
 
 ---
 

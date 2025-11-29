@@ -6,9 +6,9 @@ A fully responsive, modern landing page built with Next.js 14+, Tailwind CSS, an
 
 ## 🚀 Live Demo
 
-**Deployed Link:** [Your Vercel URL will appear here after deployment]
+**Deployed Link:** [https://modern-saas-landing.vercel.app](https://modern-saas-landing.vercel.app)
 
-**GitHub Repository:** [Your GitHub repo URL]
+**GitHub Repository:** [https://github.com/Sandeshinde1530/ModernSaas](https://github.com/Sandeshinde1530/ModernSaas)
 
 ## ✨ Features
 
